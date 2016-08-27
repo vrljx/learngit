@@ -1,3 +1,5 @@
--- git is a version control system.
--- git is free software.
-git is ok
+-- Git is a version control system.
+-- Git is free software.
+Git is ok
+git has a mutable index called stage.
+git tracks changes.
